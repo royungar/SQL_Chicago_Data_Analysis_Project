@@ -1,0 +1,5 @@
+# Ignore SQLite DB and system files
+*.db
+.DS_Store
+__pycache__/
+*.pyc
