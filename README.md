@@ -2,8 +2,8 @@
 
 ## Overview
 
-This project explores and analyzes real-world datasets from the City of Chicago using SQL within a Jupyter Notebook. 
-It was completed as the final project for **Course 5 – Databases and SQL for Data Science with Python** 
+This project explores and analyzes real-world datasets from the City of Chicago using SQL within a Jupyter Notebook.
+It was completed as the final project for **Course 5 – Databases and SQL for Data Science with Python**
 in the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer).
 
 The analysis is performed using SQLite and `%sql` magic commands, combining Python and SQL to uncover insights about crime rates, public schools, and socioeconomic conditions in Chicago.
@@ -22,8 +22,8 @@ The analysis is performed using SQLite and `%sql` magic commands, combining Pyth
 
 ## Tools & Technologies
 
-| Category         | Tools/Technologies             |
-| ---------------- | ------------------------------ |
+| Category          | Tools/Technologies             |
+|-------------------|--------------------------------|
 | **Languages**     | Python, SQL                    |
 | **Libraries**     | pandas, sqlite3, ipython-sql   |
 | **Database**      | SQLite                         |
@@ -122,5 +122,6 @@ This project was completed as part of the IBM Data Engineering Professional Cert
 
 ## Links
 
-- Databases and SQL for Data Science with Python - (https://www.coursera.org/learn/sql-data-science)
-- GitHub Portfolio: (https://github.com/royungar)
+- Course Page - [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
+- [GitHub Profile](https://github.com/royungar)
+- [GitHub Repository](https://github.com/royungar/Chicago_SQL_Data_Analysis_Project)
