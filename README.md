@@ -1,4 +1,4 @@
-# Chicago SQL Data Analysis Project – IBM Data Engineering Professional Certificate
+# SQL Chicago Data Analysis Project – IBM Data Engineering Professional Certificate
 
 ## Overview
 
@@ -98,7 +98,7 @@ WHERE LOCATION_DESCRIPTION LIKE '%SCHOOL%';
 ## Repository Structure
 
 ```plaintext
-Chicago_SQL_Data_Analysis_Project/
+SQL_Chicago_Data_Analysis_Project/
 ├── README.md                                    # Project overview and instructions
 ├── data/
 │   ├── ChicagoCensusData.csv                    # Socioeconomic data by community area
@@ -111,7 +111,7 @@ Chicago_SQL_Data_Analysis_Project/
 │   ├── table_creation_and_database_setup.png    # Creating SQLite DB and loading tables using pandas and df.to_sql()
 │   └── total_crimes_count.png                   # Total number of crimes in the dataset (Problem 1)
 ├── notebook/
-│   └── Chicago_SQL_Data_Analysis_Project.html   # Final notebook with all tasks and query outputs
+│   └── SQL_Chicago_Data_Analysis_Project.ipynb  # Final notebook with all tasks and query outputs
 ```
 
 ---
@@ -124,4 +124,4 @@ This project was completed as part of the IBM Data Engineering Professional Cert
 
 - Course Page - [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
 - [GitHub Profile](https://github.com/royungar)
-- [GitHub Repository](https://github.com/royungar/Chicago_SQL_Data_Analysis_Project)
+- [GitHub Repository](https://github.com/royungar/SQL_Chicago_Data_Analysis_Project)
